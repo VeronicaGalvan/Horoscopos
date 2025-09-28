@@ -1,0 +1,19 @@
+.signo-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+  width: 350px;
+  background: #000000;
+  text-align: center;
+  color: #fff;
+}
+.signo-card img {
+  width: 150px;
+  height: 150px;
+  margin: 10px 0;
+}
+.signo-card p {
+  line-height: 1.4;
+  color: #fff;
+}

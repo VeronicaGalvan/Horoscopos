@@ -38,6 +38,13 @@
   border: 1px solid #000000;
   background: #fff;
 }
+@media (max-width: 480px) {
+  .formulario-card {
+    width: 100%;
+    max-width: 100%;
+    padding: 15px;
+  }
+}
 
 button {
   width: 40%;

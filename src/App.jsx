@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Formulario from "./components/formulario";
-import Signo from "./components/Signo";
+import Formulario from "./components/Formulario.jsx";
+import Signo from "./components/Signo.jsx";
 import "./App.css";
 
 function App() {
